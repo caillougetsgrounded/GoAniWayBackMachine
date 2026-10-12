@@ -1436,7 +1436,7 @@
 			"country": "US",
 			"language": "en",
 			"gender": "M",
-			"source": "readloud",
+			"source": "voiceforge",
 			"arg" "Eric",
 			"desc": "Eric"
 		},
@@ -1444,7 +1444,7 @@
 			"country": "US",
 			"language": "en",
 			"gender": "F",
-			"source": "readloud",
+			"source": "voiceforge",
 			"arg": "Jennifer",
 			"desc": "Jennifer"
 		},
@@ -1452,7 +1452,7 @@
 			"country": "US",
 			"language": "en",
 			"gender": "M",
-			"source": "readloud",
+			"source": "voiceforge",
 			"arg": "Skippy",
 			"desc": "Skippy"
 		},

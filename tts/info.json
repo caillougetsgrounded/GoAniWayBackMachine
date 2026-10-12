@@ -1437,7 +1437,7 @@
 			"language": "en",
 			"gender": "M",
 			"source": "readloud",
-			"arg": "/english/american/3-male-voice-eric.html",
+			"arg" "Eric",
 			"desc": "Eric"
 		},
 		"jennifer": {
@@ -1445,7 +1445,7 @@
 			"language": "en",
 			"gender": "F",
 			"source": "readloud",
-			"arg": "/english/american/28-female-voice-jennifer.html",
+			"arg": "Jennifer",
 			"desc": "Jennifer"
 		},
 		"skippy": {
@@ -1453,7 +1453,7 @@
 			"language": "en",
 			"gender": "M",
 			"source": "readloud",
-			"arg": "/english/american/49-funny-toy-voice-skippy-the-chipmunk.html",
+			"arg": "Skippy",
 			"desc": "Skippy"
 		},
 		"ivy1": {
